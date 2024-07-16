@@ -7,4 +7,4 @@
         });
     });
     console.log(titleCaps);
-})(["hello world", "javascript is fun"]);
+})(["hello world", "convert all title characters"]);
